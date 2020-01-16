@@ -2,7 +2,7 @@
 
 #include <arbor/recipe.hpp>
 
-class insite_module {
+class insite_adapter {
 public:
-    insite_module(const arb::recipe& recipe);
+    insite_adapter(const arb::recipe& recipe);
 };
